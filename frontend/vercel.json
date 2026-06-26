@@ -1,5 +1,7 @@
 {
-  "buildCommand": "npm run build",
-  "outputDirectory": "dist",
-  "framework": "vite"
+  "build": {
+    "env": {
+      "VITE_API_URL": "https://sage-0jv0.onrender.com"
+    }
+  }
 }
