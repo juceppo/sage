@@ -1,0 +1,13 @@
+﻿# Python
+__pycache__/
+*.pyc
+.env
+sage.db
+chroma_db/
+venv/
+.venv/
+
+# Node
+node_modules/
+dist/
+.env
